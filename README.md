@@ -1,6 +1,6 @@
 # GRAPHICS-SECTION-K-
 Computer Graphics Project 
-Spider-Man: Shadows Over the City
+**Spider-Man: Shadows Over the City**
 **Project Description**
 This project is a simple 3D Spider-Man game made using C++ and OpenGL (GLUT). The main goal of this project is to learn basic computer graphics by creating a small game. In this game, the player controls a Spider-Man character inside a virtual city. The city includes buildings, a sky with stars, and a flat ground. The player can move Spider-Man using the keyboard and use the mouse to shoot webs. When the web hits a point, Spider-Man moves toward that point, which feels like climbing or swinging with a web. This project is mainly for learning purposes and is not a full commercial game.
 
