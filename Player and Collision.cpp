@@ -1,4 +1,4 @@
-/ Spider-Man always visible
+// Spider-Man always visible
 void drawHead(){
     glPushMatrix(); glTranslatef(0,1.0,0);
     glColor3f(0.9f,0.05f,0.05f); // bright red
